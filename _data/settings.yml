@@ -3,9 +3,6 @@ analytics-id:
 pages:
   - {name: 'Episodes', link: 'episodes.html'}
   - {name: 'Patreon', link: '#'}
-  - {name: 'Shop', link: '#'}
-  - {name: 'GitHub', link: 'https://github.com/PandaSekh'}
-  - {name: 'Get This Theme', link: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
 
 social:
   - {icon: 'instagram', type: "brand", link: '#'}

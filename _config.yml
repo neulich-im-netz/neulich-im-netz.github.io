@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Podcaster"
+title: "Neulich im Netz - der Internet-Podcast"
 description: "A Jekyll Theme designed for Podcasters"
 podcast-description: "A Jekyll Theme designed for Podcasters. This is your podcast's summary."
 url:  "https://jekyll-podcaster.netlify.app/" # Actual base url of the website
@@ -10,7 +10,7 @@ author:
   url: "https://alessiofranceschi.me"
 permalink: pretty
 permalink: /:title
-keywords: [podcast, jekyll]
+keywords: [podcast, Neulich im Netz, Internet-Podcast]
 
 #Plugins
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
