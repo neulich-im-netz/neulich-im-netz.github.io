@@ -2,7 +2,7 @@
 title: "Neulich im Netz"
 description: "Der Internet-Podcast"
 podcast-description: "Neulich im Netz - der Internet-Podcast. Alle 14 Tage ein Thema aus dem Bereich Internet-Technologien, Protokolle und Phänomene."
-url:  "https://neulich-im.net/" # Actual base url of the website
+url:  "https://neulich-im-netz.github.io" # Actual base url of the website
 baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Rolf Winter und Dirk Kutscher"
@@ -30,15 +30,13 @@ sass:
 twitter:
   username: NeulichInternet
   card: summary
-#facebook:
+# facebook:
 #  app_id: 
 logo: /assets/img/Podcast_Cover.png
-#social:
-#  name: Alessio Franceschi
-#  links:
-#    - https://github.com/PandaSekh
-#    - https://twitter.com/PandaSekh
-#    - https://www.linkedin.com/in/alessio-franceschi/
+social:
+  name: Neulich im Netz
+  links:
+    - https://twitter.com/NeulichInternet
 lang: de
 
 #Podcast Metadata. Used by the RSS Feed, which currently isn't in use. So you can avoid this
@@ -47,7 +45,7 @@ podcast_author: Rolf Winter und Dirk Kutscher
 # podcast_email: alessiofranceschi2@gmail.com
 podcast_subtitle: "Der Internet-Podcast"
 podcast_summary: "Alle 14 Tage ein Thema aus dem Bereich Internet-Technologien, Protokolle und Phänomene."
-# podcast_description: "A Jekyll Theme designed for Podcasters. This is your podcast's description."
+podcast_description: "Neulich im Netz - der Internet-Podcast. Wir reden alle 14 Tage über ein Thema aus dem Bereich Internet-Technologien, Protokolle und Phänomene."
 podcast_explicit: "no"
 podcast_type: serial 
 podcast_lang: de

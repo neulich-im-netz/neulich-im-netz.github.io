@@ -1,15 +1,15 @@
 analytics-id: 
 #Pages
 pages:
-  - {name: 'Episodes', link: 'episodes.html'}
-  - {name: 'Patreon', link: '#'}
+  - {name: 'Episoden', link: 'episodes.html'}
+  - {name: 'Über', link: '#'}
 
 social:
-  - {icon: 'instagram', type: "brand", link: '#'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ArteLettura'}
-  - {icon: 'facebook', type: "brand", link: '#'}
+#  - {icon: 'instagram', type: "brand", link: '#'}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/NeulichInternet'}
+#  - {icon: 'facebook', type: "brand", link: '#'}
   - {icon: 'youtube', type: "brand", link: '#'}  
-  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
+#  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
   - {icon: 'rss', type: "solid", link: "#"}
 
 websites-podcast:
@@ -27,7 +27,7 @@ websites-podcast:
   - {name: 'RSS', link: '#'}
 
 translate-date: true #See _includes/date.html to translate the months' name
-shownotes: true
+shownotes: false
 
 #Disqus
 disqus:
