@@ -2,7 +2,7 @@
 title: "Neulich im Netz"
 description: "Der Internet-Podcast"
 podcast-description: "Neulich im Netz - der Internet-Podcast. Alle 14 Tage ein Thema aus dem Bereich Internet-Technologien, Protokolle und Phänomene."
-url:  "https://neulich-im-netz.github.io" # Actual base url of the website
+url:  "https://www.neulich-im.net" # Actual base url of the website
 baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Rolf Winter und Dirk Kutscher"
