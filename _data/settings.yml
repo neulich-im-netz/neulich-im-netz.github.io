@@ -8,7 +8,7 @@ social:
 #  - {icon: 'instagram', type: "brand", link: '#'}
   - {icon: 'twitter', type: "brand", link: 'https://twitter.com/NeulichInternet'}
 #  - {icon: 'facebook', type: "brand", link: '#'}
-  - {icon: 'youtube', type: "brand", link: '#'}  
+  - {icon: 'youtube', type: "brand", link: 'https://www.youtube.com/channel/UCYUofAXgSMmKaG_njeEUUhw'}  
 #  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
   - {icon: 'rss', type: "solid", link: "#"}
 
