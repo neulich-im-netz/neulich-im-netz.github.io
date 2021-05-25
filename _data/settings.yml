@@ -14,7 +14,7 @@ social:
 
 websites-podcast:
 #  - {name: 'Apple Podcast', link: '#'}
-#  - {name: 'Spotify', link: '#'}
+  - {name: 'Spotify', link: 'https://open.spotify.com/show/2CduZE7eQiR3oXZho9BjZm'}
   - {name: 'YouTube', link: 'https://www.youtube.com/channel/UCYUofAXgSMmKaG_njeEUUhw'}
 #  - {name: 'Android', link: '#'}
 #  - {name: 'Spreaker', link: '#'}
