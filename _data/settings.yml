@@ -10,21 +10,21 @@ social:
 #  - {icon: 'facebook', type: "brand", link: '#'}
   - {icon: 'youtube', type: "brand", link: 'https://www.youtube.com/channel/UCYUofAXgSMmKaG_njeEUUhw'}  
 #  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
-  - {icon: 'rss', type: "solid", link: "#"}
+  - {icon: 'rss', type: "solid", link: "https://anchor.fm/s/55cf0ecc/podcast/rss"}
 
 websites-podcast:
-  - {name: 'Apple Podcast', link: '#'}
-  - {name: 'Spotify', link: '#'}
-  - {name: 'YouTube', link: '#'}
-  - {name: 'Android', link: '#'}
-  - {name: 'Spreaker', link: '#'}
-  - {name: 'Google Podcast', link: '#'}
-  - {name: 'Anchor', link: '#'}
-  - {name: 'Castbox', link: '#'}
-  - {name: 'Overcast', link: '#'}
-  - {name: 'RadioPublic', link: '#'}
-  - {name: 'Breaker', link: '#'}  
-  - {name: 'RSS', link: '#'}
+#  - {name: 'Apple Podcast', link: '#'}
+#  - {name: 'Spotify', link: '#'}
+  - {name: 'YouTube', link: 'https://www.youtube.com/channel/UCYUofAXgSMmKaG_njeEUUhw'}
+#  - {name: 'Android', link: '#'}
+#  - {name: 'Spreaker', link: '#'}
+#  - {name: 'Google Podcast', link: '#'}
+  - {name: 'Anchor', link: 'https://anchor.fm/neulich-im-netz'}
+#  - {name: 'Castbox', link: '#'}
+#  - {name: 'Overcast', link: '#'}
+#  - {name: 'RadioPublic', link: '#'}
+#  - {name: 'Breaker', link: '#'}  
+#  - {name: 'RSS', link: 'https://anchor.fm/s/55cf0ecc/podcast/rss'}
 
 translate-date: true #See _includes/date.html to translate the months' name
 shownotes: false
