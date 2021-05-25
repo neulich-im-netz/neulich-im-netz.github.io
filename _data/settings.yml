@@ -24,7 +24,7 @@ websites-podcast:
 #  - {name: 'Overcast', link: '#'}
 #  - {name: 'RadioPublic', link: '#'}
 #  - {name: 'Breaker', link: '#'}  
-#  - {name: 'RSS', link: 'https://anchor.fm/s/55cf0ecc/podcast/rss'}
+  - {name: 'RSS', link: 'https://anchor.fm/s/55cf0ecc/podcast/rss'}
 
 translate-date: true #See _includes/date.html to translate the months' name
 shownotes: false
