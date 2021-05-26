@@ -16,7 +16,7 @@ websites-podcast:
 #  - {name: 'Apple Podcast', link: '#'}
   - {name: 'Spotify', link: 'https://open.spotify.com/show/2CduZE7eQiR3oXZho9BjZm'}
   - {name: 'YouTube', link: 'https://www.youtube.com/channel/UCYUofAXgSMmKaG_njeEUUhw'}
-#  - {name: 'Android', link: '#'}
+  - {name: 'Pocket Casts', link: 'https://pca.st/58v32ol1'}
 #  - {name: 'Spreaker', link: '#'}
 #  - {name: 'Google Podcast', link: '#'}
   - {name: 'Anchor', link: 'https://anchor.fm/neulich-im-netz'}
