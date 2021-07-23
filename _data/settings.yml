@@ -20,7 +20,7 @@ websites-podcast:
   - {name: 'Amazon Music', link: 'https://music.amazon.de/podcasts/94f56ca6-dfd9-4758-9286-0910de7b4865/Neulich-im-Netz-Der-InternetPodcast'}
   - {name: 'Google Podcast', link: 'https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NWNmMGVjYy9wb2RjYXN0L3Jzcw=='}
   - {name: 'Anchor', link: 'https://anchor.fm/neulich-im-netz'}
-#  - {name: 'Castbox', link: '#'}
+  - {name: 'Apple Podcast', link: 'https://podcasts.apple.com/us/podcast/neulich-im-netz-der-internet-podcast/id1577825207'}
 #  - {name: 'Overcast', link: '#'}
   - {name: 'RadioPublic', link: 'https://radiopublic.com/neulich-im-netz-der-internetpodc-Gmj9aa'}
   - {name: 'Breaker', link: 'https://www.breaker.audio/neulich-im-netz-der-internet-podcast'}  
