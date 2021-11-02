@@ -1,5 +1,5 @@
 ---
-title: Wer "macht" das Internet?
+title: Wer macht das Internet?
 layout: post
 categories: []
 type: main # I use this to split main episodes to extra ones
