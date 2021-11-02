@@ -3,10 +3,7 @@ title: Wer macht das Internet?
 layout: post
 categories: []
 type: main # I use this to split main episodes to extra ones
-description: Standards sind die Grundlage des Internets. Aber wer definiert diese
-Standards, wie entstehen Standards, und welche Prozesse implementieren
-Normierungsgremien, damit gute Standards entstehen? All dies und mehr in dieser
-Folge von Neulich im Netz.
+description: Standards sind die Grundlage des Internets. Aber wer definiert diese Standards, wie entstehen Standards, und welche Prozesse implementieren Normierungsgremien, damit gute Standards entstehen? All dies und mehr in dieser Folge von Neulich im Netz.
 file: https://www.winterritory.de/episodes/ep8-standards.mp3 #Link to your .mp3 file
 length: "78:53" # mm:ss
 videoid: Q3Ip0CvoZNA #Copy here only the id of your YouTube video. Optional 
