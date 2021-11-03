@@ -16,7 +16,6 @@ Quellen:
 2. [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) 
 3. [Standardization in the Public Interest since 1880](https://datatracker.ietf.org/meeting/110/materials/slides-110-hrpc-standardization-in-the-public-interest-since-1880-01)
 4. [Standardization in the Public Interest since 1880 (Video)](https://www.youtube.com/watch?v=reLoeMdwqcg)
-)
 5. [Engineering Rules Global Standard Setting since 1880](https://jhupbooks.press.jhu.edu/title/engineering-rules)
 6. [3GPP Working Procedures](https://www.3gpp.org/ftp/Information/Working_Procedures/3GPP_WP.htm)
 7. [3GPP FAQs](https://www.3gpp.org/contact/3gpp-faqs)
