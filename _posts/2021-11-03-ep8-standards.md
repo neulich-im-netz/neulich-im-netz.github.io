@@ -13,7 +13,7 @@ music by scottholmesmusic.com
 Quellen:
 
 1. [ITU-T](https://en.wikipedia.org/wiki/ITU-T)
-2. [ISO](hhttps://en.wikipedia.org/wiki/International_Organization_for_Standardization) 
+2. [ISO](https://en.wikipedia.org/wiki/International_Organization_for_Standardization) 
 3. [Standardization in the Public Interest since 1880](https://datatracker.ietf.org/meeting/110/materials/slides-110-hrpc-standardization-in-the-public-interest-since-1880-01)
 4. [Standardization in the Public Interest since 1880 (Video)](https://www.youtube.com/watch?v=reLoeMdwqcg)
 )
