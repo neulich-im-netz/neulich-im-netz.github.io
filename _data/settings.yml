@@ -2,7 +2,7 @@ analytics-id:
 #Pages
 pages:
   - {name: 'Episoden', link: 'episodes.html'}
-  - {name: 'Über', link: '#'}
+  - {name: 'Über', link: 'about.html'}
 
 social:
 #  - {icon: 'instagram', type: "brand", link: '#'}
